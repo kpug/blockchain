@@ -239,4 +239,3 @@ Thin clients나 Simple Payment Verification clients도 있다. 비트코인 네�
 ### Soft forking
 
 // TBD
-
